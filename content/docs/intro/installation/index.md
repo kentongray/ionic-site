@@ -31,7 +31,7 @@ please resolve before moving on.
 With Node and NPM setup, let's install the Ionic and Cordova CLI.
 
 ```bash
-$ npm install -g ionic cordova
+$ npm install -g ionic@3.9.2 cordova
 ```
 
 > Note: The `-g` means this is a global install, so for Windows you will need
